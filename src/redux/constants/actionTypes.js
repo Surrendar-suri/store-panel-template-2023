@@ -1,0 +1,4 @@
+export const ActionTypes = {
+    LAYOUT_OPTIONS:'LAYOUT_OPTIONS',
+    SHOW_RIGHT_SIDEBAR:'SHOW_RIGHT_SIDEBAR',
+}
